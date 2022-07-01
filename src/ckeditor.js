@@ -82,6 +82,7 @@ Editor.builtinPlugins = [
 
 // Editor configuration.
 Editor.defaultConfig = {
+
 	toolbar: {
 		items: [
 			'fontSize',
