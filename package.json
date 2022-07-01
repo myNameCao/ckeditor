@@ -41,7 +41,6 @@
     "start": "npx http-server -o ./sample -s -c-1"
   },
   "dependencies": {
-    "@ckeditor/ckeditor5-engine": "^34.2.0",
     "@ckeditor/ckeditor5-html-support": "^32.0.0",
     "ckeditor5-line-height": "^0.3.1",
     "ckeditor5-math": "^32.0.0",
