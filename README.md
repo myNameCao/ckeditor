@@ -1,13 +1,11 @@
- #  ckeditor 
+ #  ckeditor5
+
+ ####  1 mathtype  
+
+![image](https://user-images.githubusercontent.com/23721492/186572916-45bf6281-bee9-4b46-9adc-322a2e8624f1.png)
 
 
-
-
-1  使用mathtype  
-
-2  满足基本的文本编辑
-
- ####  toolbar
+ #### 2 toolbar
  
  ![image](https://user-images.githubusercontent.com/23721492/186572281-1175be91-f244-49a8-969d-f8e51711a44e.png)
 
